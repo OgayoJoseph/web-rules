@@ -148,3 +148,47 @@ Colors and Typography.
 11.Don't make text too light! Use tool to check contrast between text and background colors. TOOLBOX{coolors}.
 
 NB=Contrast ratio needs to be at least 4.5:1 for normal text and 3:1 for large text (18px+).
+
+Web Desing Rules; Images and Illustrations.
+
+Use Good Images;
+
+1.Different types of images: product photos,storytelling photos, illustration, patterns.
+
+-Product; Illustrate item to be sold on the website.
+-Storytelling; Convey message (using product etc.).
+-Illustration; Abstract way to tell story, help bring story.
+-Patterns; Add intresting visual details and creativity. {don't over do!!}
+
+2.Use images to support your website's message & story. ONLY!! relevant images.
+
+3.Prefer original images. if not possible, use original-looking stock images (avoid generic images) TOOLBOX{Unsplash [prefered], Pexels, DrawKit, unDraw}.
+
+Use Images Well.
+
+4.Try to show real People to trigger user's emotions.
+
+5.If necessary, crop images to fit your message.
+
+6.Experiments combining photos, illustration and patterns.
+
+Handling Text on Images.
+
+7.Method #1: Darken or Brighten image (completely or partially, using a gradient).
+
+8.Method #2: Position text into neutral image area.
+
+9.Method #3: Put text in a box.
+
+Some Technical Details.
+
+10.To account for high-res screens, make images dimensions 2x as big as their displayed size.
+
+-This is achieved by using scale factor.
+SCALE FACTOR: Actual pixels the screen contains / Pixels represented on screen.
+
+-On high-res screens, scale factor is 2 times or even 3 times (latest high-res phones), on "normal" screens it's just 1 times (1 physical pixel = 1 design pixel).
+
+11.Compress images for lower file size and better performance. TOOLBOX {Squoosh}.
+
+12.When using multiple images side-by-side, make sure they have the exact same dimensions.
