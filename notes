@@ -1,21 +1,20 @@
 WEB DESIGN RULES AND FRAMEWORK
-
-Web designers create the overall look of and feel of a website, while Web developers, implement the designs, using HTML, CSS, JavaScript code.
+-Web designers create the overall look of and feel of a website, while Web developers, implement the designs, using HTML, CSS, JavaScript code.
 
 Why Take Design Seriously.
 
 Good Design;
 
-*Creates an immediate and lasting good impression of the brand or Product.
-*Build Trust.
-*Increase Perceived value of Products.
-*Gives Users exactly what they need.
+-Creates an immediate and lasting good impression of the brand or Product.
+-Build Trust.
+-Increase Perceived value of Products.
+-Gives Users exactly what they need.
 
 Bad Design;
 
-*Makes users believe the brand doesn't really care about their products or services.
-*Insecure about trusting the website.
-\*Product seem cheap.
+-Makes users believe the brand doesn't really care about their products or services.
+-Insecure about trusting the website.
+-Product seem cheap.
 Confuses and difficult for users to reach thier goal.
 
 Framework/System for Building a Good Web Design;
@@ -44,21 +43,21 @@ Different Website Personalities.
 6.Startup/Upbeat; Widely used in startups.
 7.Playful/Fun; Colorful & round design.
 
-Typography
+Web Design:TYPOGRAPHY;
 
 Def; The art and technique of arranging type to make written language LEGIBLE, READABLE, & APPEALING when displayed (applied) {wikipedia defination}
 
 Serif vs Sans-Serif.
 
 Serif typeface.
-*Create a traditional/Classic look & feel.
-*Conveys trustworthiness.
-\*Good for long texts.
+-Create a traditional/Classic look & feel.
+-Conveys trustworthiness.
+-Good for long texts.
 
 Sans-Serif tyeface.
-*Mordern look and feel.
-*Clean & Simple.
-\*Easier to choose for begginer designers.
+-Mordern look and feel.
+-Clean & Simple.
+-Easier to choose for begginer designers.
 
 Typefaces Rules (Guideline).
 
@@ -71,29 +70,81 @@ Sans-serif; (Inter, Open sans, Roboto, Montserrat, Work sans, Lato) are free fon
 Serif; (Merriweather, Aleo, Playfair Display, Cormorant, Cardo, Lora) are free fonts
 
 2.Use just one typeface per page, if more is needed limit to 2 typeface.
+
 3.Choose the right typeface according to website personality.
 
-{
-*choose right personality for website (later on lecture)
-*Deside between serif & sans-serif typefaces
-*Experiment with all "good" typefaces (and others from Google font) to see which one best fits your website message. (developed over time with experience)
-*Keep trying different typefaces as you design and build the page
+{-choose right personality for website (later on lecture)
+-Deside between serif & sans-serif typefaces
+-Experiment with all "good" typefaces (and others from Google font) to see which one best fits your website message. (developed over time with experience)
+-Keep trying different typefaces as you design and build the page}
 
-- }
+4.When choosing font-size limit choices (Use a "typescale" tool or other pre defined range).
 
-  4.When choosing font-size limit choices (Use a "typescale" tool or other pre defined range)
-  5.Font-size between 16px-32px for normal text.
-  6.For long text (like a blog post), try a size of 20px or even bigger.
-  7.For headlines you can go really big (50px) and bold (600+), depending on personality.
-  8.For any text, don't use a font weight under 400 (regular).
+5.Font-size between 16px-32px for normal text.
+
+6.For long text (like a blog post), try a size of 20px or even bigger.
+
+7.For headlines you can go really big (50px) and bold (600+), depending on personality.
+
+8.For any text, don't use a font weight under 400 (regular).
 
 {Reading Experience}
 9.Use less than 75 characters per line.
+
 10.For normal sized text use a line height between 1.5 & 2. For big text, go below 1.5.
 
 NB=The small or longer the text, the larger the line height needs to be.
 
 11.Describe letter spacing in headline, if it looks unnatural (comes with experience).
+
 12.Experiment with all caps for short titles. Makes them small & bold & increase letter-spacing.
+
 13.Usually don't justify text.
-Don't center long text blocks, small blocks are fine.
+
+14.Don't center long text blocks, small blocks are fine.
+
+Web Design: COLORS;
+
+1.Make the main color MATCH YOUR WEBSITE'S PERSONALITY: colors convey meaning!
+
+-Red: symbolizes power, passion & excitement.
+-Orange: conveys happiness, cheerfulness and creativity.
+-Yellow: joy, brightness, intelligence.
+-Green:harmony, nature, growth & health.
+-Blue: peace, trustworthiness, professionalism.
+-Purple: wealth, wisdom, magic.
+-Pink: romance, care, affection.
+-Brown: nature, durability and comfort.
+-Black: power, elegance, minimalism {also grief and sorrow.}
+
+2.Use a GOOD COLOR TONE! Don't choose random tone or CSS named colors TOOLBOX{Open color, tailwindcss,Flat UI colors 2}.
+
+Establishing a Color System.
+
+3.You need at least 2 types of color palette; i.e main color and grey color.
+
+4.With experience you can add accent colors as well TOOLBOX{palleton.com, coolors}
+
+-Main color and grey color shoul complement each other and play off each other's tone and darkness.
+
+-Make sure the accent color has a relation with the main color. using toolbox color {no.2}.
+
+5.For diversity, create lighter and darker "versions" (tints and shades) {tint[Lighter] shades [Darker]}. TOOLBOX{Tint & Shade Generator}
+
+WHen and How to Use Colors.
+
+6.Use your color to draw attention to the most important elements on the page. i.e {button, logo,}
+
+7.Color add interesting accents making the entire components or sections stand out.
+
+8.Colors can be used strategically in images and illustrations.
+
+Colors and Typography.
+
+9.On dark colored backgrounds, try to use tints of the background ("lighter version") for text.
+
+10.Text should not be completely black. Lighten it up {appears more inviting}.
+
+11.Don't make text too light! Use tool to check contrast between text and background colors. TOOLBOX{coolors}.
+
+NB=Contrast ratio needs to be at least 4.5:1 for normal text and 3:1 for large text (18px+).
