@@ -1,0 +1,99 @@
+WEB DESIGN RULES AND FRAMEWORK
+
+Web designers create the overall look of and feel of a website, while Web developers, implement the designs, using HTML, CSS, JavaScript code.
+
+Why Take Design Seriously.
+
+Good Design;
+
+*Creates an immediate and lasting good impression of the brand or Product.
+*Build Trust.
+*Increase Perceived value of Products.
+*Gives Users exactly what they need.
+
+Bad Design;
+
+*Makes users believe the brand doesn't really care about their products or services.
+*Insecure about trusting the website.
+\*Product seem cheap.
+Confuses and difficult for users to reach thier goal.
+
+Framework/System for Building a Good Web Design;
+
+Website Design Ingredients;
+
+1.Typography.
+2.Colors.
+3.Images & Illustrations.
+5.Icons.
+6.Shadows.
+7.Whitespace.
+8.Visual Hierachy.
+9.User Experience (UX).
+10.Component/Layout.
+
+NB=Website personality, will determine design decision for each ingredient.
+
+Different Website Personalities.
+
+1.Serious/Elegance; For luxury & elegance.
+2.Minimalist/Simple; Focuses on the essentials text content.
+3.Plain/Neutral; Design that gets out of the way by using neutral & small typefaces i.e common for corporations.
+4.Bold/Confident; Makes an impact, by featuring big & bold typography, paired with confident use of big & bright colored blocks.
+5.Calm/Peaceful; For products & Services that care.
+6.Startup/Upbeat; Widely used in startups.
+7.Playful/Fun; Colorful & round design.
+
+Typography
+
+Def; The art and technique of arranging type to make written language LEGIBLE, READABLE, & APPEALING when displayed (applied) {wikipedia defination}
+
+Serif vs Sans-Serif.
+
+Serif typeface.
+*Create a traditional/Classic look & feel.
+*Conveys trustworthiness.
+\*Good for long texts.
+
+Sans-Serif tyeface.
+*Mordern look and feel.
+*Clean & Simple.
+\*Easier to choose for begginer designers.
+
+Typefaces Rules (Guideline).
+
+1.Use only good & popular typefaces and play it safe;
+
+Examples (from Google Fonts, Font Squirrel);
+
+Sans-serif; (Inter, Open sans, Roboto, Montserrat, Work sans, Lato) are free fonts
+
+Serif; (Merriweather, Aleo, Playfair Display, Cormorant, Cardo, Lora) are free fonts
+
+2.Use just one typeface per page, if more is needed limit to 2 typeface.
+3.Choose the right typeface according to website personality.
+
+{
+*choose right personality for website (later on lecture)
+*Deside between serif & sans-serif typefaces
+*Experiment with all "good" typefaces (and others from Google font) to see which one best fits your website message. (developed over time with experience)
+*Keep trying different typefaces as you design and build the page
+
+- }
+
+  4.When choosing font-size limit choices (Use a "typescale" tool or other pre defined range)
+  5.Font-size between 16px-32px for normal text.
+  6.For long text (like a blog post), try a size of 20px or even bigger.
+  7.For headlines you can go really big (50px) and bold (600+), depending on personality.
+  8.For any text, don't use a font weight under 400 (regular).
+
+{Reading Experience}
+9.Use less than 75 characters per line.
+10.For normal sized text use a line height between 1.5 & 2. For big text, go below 1.5.
+
+NB=The small or longer the text, the larger the line height needs to be.
+
+11.Describe letter spacing in headline, if it looks unnatural (comes with experience).
+12.Experiment with all caps for short titles. Makes them small & bold & increase letter-spacing.
+13.Usually don't justify text.
+Don't center long text blocks, small blocks are fine.
