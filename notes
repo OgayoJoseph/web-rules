@@ -192,3 +192,38 @@ SCALE FACTOR: Actual pixels the screen contains / Pixels represented on screen.
 11.Compress images for lower file size and better performance. TOOLBOX {Squoosh}.
 
 12.When using multiple images side-by-side, make sure they have the exact same dimensions.
+
+Web Design Rules: Icons.
+
+Use good icons.
+
+1.Use a good icon pack, there's a variety of icon packs both paid and free. TOOLBOX{Phosphor icons, ionicons, ICONS8}
+
+2.Use only one icon pack. mixing icon is not a good practice.
+
+3.Use SVG icons or Icon fonts. using bitmap image formats (.jpg and .png!)
+
+-SVG images and icon font are vector-based.
+-Can be scaled indefinitely!
+-Don't get pixelated.
+-.jpg, png, gif don't scale and become unsharp.
+
+4.Choosing icons should be based on your website personality! ROUNDNESS, WEIGHT and FILLED/OUTLINED depending on typography.
+
+When to use icons.
+
+5.Provide [visual assistance] to text.
+
+6.Use icons for [product feature blocks]
+
+7.Use icons [associated with actions], and [label them] (unless no space or icon is 100% clear).
+
+8.Use icons as[bullet points]
+
+How to use icon well.
+
+9.Keep icon neutral, use same color as text. To draw more attention, use different color.
+
+10.Don't confuse users;icons need to make sense and fit the text or action.
+
+11.Don't make icon larger than they were designed for. If needed, enclose them in a shape.
