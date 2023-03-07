@@ -265,3 +265,15 @@ When to use shadow;
 -small-r shadow "pushes" button back into the interface.
 
 8.Bonus: Experiment with glows (colored shadows).
+
+Web Design Rules: Border-Radius.
+
+Use Border-Radius Well.
+
+1.Use border-radius to increase the playfulness and fun of the design, to make it less serious.
+
+2.Typefaces have a certain roundness: make sure that the border-radius matches that roundness.
+
+Where to Use Border Radius.
+
+3.Use border-radius on [buttons], [images], [around-icons], [standout-sections] and other elements.
