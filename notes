@@ -227,3 +227,41 @@ How to use icon well.
 10.Don't confuse users;icons need to make sense and fit the text or action.
 
 11.Don't make icon larger than they were designed for. If needed, enclose them in a shape.
+
+Web Design Rules: Shadows.
+
+Some Consepts;
+
+Shadow history;
+
+-Product had [Skeuomorphic-Design] which had a glossy effect and lots of shadows.
+-Windows & Mac-IOs striped this design for a flat design[minimal]
+
+-Recently a phenomenal dubbed ["Flat-Design-2.0"] has emerged, still with minimal flat design but drings back shadows and depth for better usability.
+
+-After an era of 100% flat design, we're now back to using shadows in UI design (aka "Flat Design 2.0")
+-Shadows create depth (3D): the more shadow, the further away from the interface the element is.
+-Shadows can be udes on boxes and text.
+
+Use of shadows well;
+
+1.Dont have to use shadows! Only use them it it makes sense for the website personality.
+
+2.Use shadows in small doses.
+
+3.Go light on shadows, don't make them too dark.
+
+When to use shadow;
+
+4.Use small shadows for smaller elements that should stand out (to draw attention).
+
+5.Use medium-sized shadows for larger areas that should stand out a bit more.
+
+6.Use large shadows for elements that should really float above the interface.
+
+7.Experiment with changing shadowson mouse interaction (click and hover)/
+
+-medum-sized shadow "pulls" button closer to the user.
+-small-r shadow "pushes" button back into the interface.
+
+8.Bonus: Experiment with glows (colored shadows).
