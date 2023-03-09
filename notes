@@ -306,3 +306,36 @@ How much Whitespace;
 8.Try a hard rule, such as using multiples of 16px for all spacing.
 
 Web Design Rules; Visual Hierarchy.
+
+What is Visual Hierarchy;
+
+-Establishing which elements of design are the most important ones.
+-Also to draw attention to the most important elemnts.
+-This will define a "path" for users, to guide them through the page.
+
+-This is achieved by using a combination of position,size,colors,spacing,borders and shadows to establish a meaningful visual hierarchy between elements/components.
+
+Visual Hierarchy Fundamentals;
+
+1.Position important elements closer to the top of the page, where they get more attention.
+
+2.Use images mindfully, as they draw a lot of attection (larger images get more attention).
+
+3.Use whitespace strategically to emphasize elements, as they create separation.
+
+Visual Hierarchy for Text Elements;
+
+4.For text elemtents, use font size, font weight, color and whitespace to convey importance.
+
+5.What text elements to emphasize?Titles,sub-titles,links,buttons,data points, icons.
+-De-emphasize less important text,like labels or secondary/additional informations.
+
+Visual Hierarchy Between Components;
+
+6.Emphasize an important component using background color, shadow, or border (or multiple).
+
+7.Try emphasizing some component A over component B by de-emphasizing component B.
+
+8.What components to emphasize? Testimonials, call-to-action sections, highlight sections, preview cards, forms, pricing tables, important rows/columns in tables, etc.
+
+Web Design Rules; User Experience (UX)
