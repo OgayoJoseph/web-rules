@@ -277,3 +277,32 @@ Use Border-Radius Well.
 Where to Use Border Radius.
 
 3.Use border-radius on [buttons], [images], [around-icons], [standout-sections] and other elements.
+
+Web Design Rules: Whitespace.
+
+Why whitespace; -right amount makes design look clean, mordern and polished.
+-Also communicates different pieces of information are related to one another.
+-Implies invisible relationship between the elements of a layout.
+
+Where to use white space;
+
+1.Use tons of whitespace between sections.
+
+2.Use a lot of whitespace between groups of elements.
+
+3.Use whitespace between elements.
+
+4.Inside groups of elements, try to use whitespace instead of lines.
+
+How much Whitespace;
+
+5.The more some elements (or groups of elements) belong together, the closer they should be! ['Law-of-Proximity'].
+
+6.Start with a lot of whitespace, maybe even too much! then remove whitespace from there.
+-Too much whitespace looks detached, too little looks too crammed.
+
+7.Match other design choises. If you have big text or big icons, you need more whitespace.
+
+8.Try a hard rule, such as using multiples of 16px for all spacing.
+
+Web Design Rules; Visual Hierarchy.
