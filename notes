@@ -567,3 +567,65 @@ Ingredients;
 -Border-radius: Bprder-radius is very common.
 
 -Layout: All kind of layouts, no particular tendencies.
+
+Web Design Rules: Elements and Components.
+
+From Elemnts to Webpage.
+
+Elements-components-[using-patterm]-layouts-webpage
+
+1.Use common elements and components to convey your website's information.
+
+2.Combine components into layouts using commonl-ayouts-patterns.
+
+3.Assemble different layout-areas into a complete, final page.
+
+Common Elements, Components, Section Components, Layout Patterns.
+
+A.Elements:
+
+-Text.
+-Buttons.
+-Images.
+-Input elements.
+-Tags.
+
+B.Components:
+
+-Breadcrumbs.
+-Pagination
+-Alert and Status bars.
+-Statistics.
+-Gallery.
+-Feature Box.
+-Preview and profile cards.
+-Accordion.
+-Tabs.
+-Carousel.
+-Customer testimonials.
+-Customer logos
+-Featured-in logos.
+-Steps.
+-Forms.
+-Tables.
+-Pricing tables.
+-Modal Windows.
+
+C.Section Components:
+
+-Navigation.
+-Hero section.
+-Footer.
+-Call-to-action section.
+-Feature row.
+
+D.Layout Patterns:
+
+-Row of boxes or cards.
+-Grid of boxes or cards.
+-Z-pattern.
+-F-pattern.
+-Single-column.
+-Sidebar.
+-Multi-column/magazine.
+-Asymmetry/Experimental.
